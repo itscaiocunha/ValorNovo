@@ -11,7 +11,7 @@ const Clients = () => {
     <section className="section-padding bg-white">
       <div className="container mx-auto">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-16">
-          NOSSOS CLIENTES MUDARAM APÓS NOS CONHECER...
+          CASES DE SUCESSO
         </h2>
         
         <div className="grid grid-cols-2 md:grid-cols-5 gap-8 items-center">
@@ -25,9 +25,6 @@ const Clients = () => {
             </a>
           ))}
         </div>
-        <h2 className="text-3xl md:text-4xl font-bold text-center mt-16">
-          ...E ELES MUDARAM PARA MELHOR
-        </h2>
       </div>
     </section>
   );
